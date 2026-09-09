@@ -1,0 +1,14 @@
+console.log("Operators");
+let a = 10;
+let b = 5;
+console.log("Sum of two number is - ", a + b);
+console.log("Subtraction of two number is - ", a - b);
+console.log("Division of two number is - ", a / b);
+console.log("Multiplication of two number is - ", a * b);
+console.log("Operator precedence → type conversion → calculation");
+let c = "10";
+let d = 5;
+console.log("Concatination for '+' ", c + d);
+console.log("Numeric conversion for '-'", c - d);
+console.log("Numeric conversion for '/' ", c / d);
+console.log("Numeric conversion for '*'  ", c * d);
